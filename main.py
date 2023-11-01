@@ -5,7 +5,7 @@ def decode_password(encoded):
         password += new_num
     return password
 
-
+# l
 def menu():
 
     print("Menu")
